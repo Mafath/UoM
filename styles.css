@@ -1,0 +1,44 @@
+body{
+  background-color: #e6f3ff;
+  padding: 12%;
+}
+
+
+.tagline{
+  color: blueviolet;
+  font-style: italic;
+}
+
+.brownie{
+  width: 320px;
+  float: right;
+  alt: Cake Image;
+  margin-top: -250px;
+}
+.price-topic{
+  font-size: 25px;
+  font-weight: bold;
+  padding-top: 150px;
+}
+table{
+  border: 1px solid black;
+  width: 100%; 
+}
+
+td,
+th{
+  text-align: left;
+  padding: 16px;
+}
+footer{
+  text-align: center;
+  font-family: 'Times New Roman', Times, serif;
+  font-size: 10px;
+  padding: 3px;
+  background-color: orange;
+  color: black;
+  position: fixed;
+  left: 0;
+  bottom: 0;
+  width: 100%;
+}
